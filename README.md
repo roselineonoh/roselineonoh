@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Roseline – Remote Admin & Cloud Support Trainee
+# 👋 Hi, I'm Roseline – Cloud & DevOps Intern @ Velsync
 
 Welcome to my GitHub portfolio! I’m transitioning from 8+ years of administrative excellence into the world of cloud computing and IT support.
 
